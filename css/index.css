@@ -1,0 +1,194 @@
+.header-create{
+    text-align: center;
+    border-bottom: 1px solid #000;
+	margin-left: auto;
+	margin-right: auto;
+    margin: 0;
+    
+
+    
+}
+
+.atag{
+    text-decoration: none !important;
+    color: rgb(0, 0, 0)
+    
+}
+
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    margin: 0;
+  }
+
+.k-title{
+    font-size: 25px
+}
+
+.nav .ul1 {
+    margin: 0px 0 0 0 ;
+    padding: 0;
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: center;
+    font-size: 28PX;
+    gap: 50PX;
+    margin: 4;
+    text-align: center;
+
+}
+
+
+.nav-name{
+    font-size: 10px;
+    margin-top: 2;
+    margin-bottom: 0;
+    font-family: "ＭＳ ゴシック",sans-serif; 
+}
+
+
+.menu {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background: white;
+	width: 100%;
+    
+    margin-top: 0;
+    box-shadow: 0 -4px 8px rgb(204, 204, 204);
+}
+/*box-shadow: 0 -5px 3px #888686;
+border-top: 2px solid #000000;*/
+.menu .li1 {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	padding: 5px;
+	list-style: none;
+	text-align: center;
+
+   
+        
+    
+}
+
+
+
+i {
+    margin-top: 4;
+}
+
+.bulletin-board{
+    border: #eee solid 1px; 
+    font-size: 100%; 
+    padding: 20px;
+
+    font-family: "ＭＳ ゴシック",sans-serif; 
+
+    
+}
+
+.channelTOPPAGE{
+    margin: 0%;
+    margin-bottom: 20px;
+    color: rgba(66, 7, 122, 0.5);
+    
+
+}
+
+
+.mm {
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 6px;
+    border-bottom: 0.5px solid #eee;
+}
+
+.oll {
+    font-size: 15;
+}
+
+.nav-name1 .nav1 .ul00{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+   
+}
+.ul00 {
+    list-style: none;
+    display: flex;
+    text-align: center;margin-top: 2;
+margin-bottom: 0;
+
+
+
+
+justify-content: center;
+gap: 40PX;
+margin-top: 4;
+text-align: center;
+color: rgba(66, 7, 122, 0.5);
+
+}
+
+
+
+.xl {
+    margin:0;padding:0
+}
+#ccc {
+    padding: 0 0 0 0 ;
+}
+
+
+.lls{border-bottom: 0.4px solid #eee;
+    padding-bottom: 10px;
+padding: 3;}
+#llsid1 {
+    margin-top: 0;
+}
+
+.new {
+    text-align: center;
+    margin-top: 0;
+    color: rgba(66, 7, 122, 0.5);
+}
+
+input[type="text"],input[type="email"],textarea{
+    padding: 6px;
+    width: 100%;
+    font-size: 1rem;
+
+}
+
+input[type="submit"]{
+   text-align: center;
+   border: none;
+   padding: 15px;
+   width: 100px;
+   color: azure;
+   background-color: #647192;
+   font-weight: bold;
+
+}
+textarea{
+    height: 140px;
+}
+
+.massage{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.hydep{
+    margin: 0;
+}
+
+.img4{
+    margin-top: 20px;
+}
